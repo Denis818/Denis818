@@ -7,7 +7,7 @@ Apesar de estar no início da minha carreira, desejo aplicar minha dedicação e
   <a href="https://www.linkedin.com/in/denis-pereira-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/denis818/denis818/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
