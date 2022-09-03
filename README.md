@@ -1,9 +1,25 @@
 <h3>Ola eu sou Denis 👋</h3>
 
-Me tornei programador para desenvolver soluções que melhoram processos, que tornam as coisas mais ágeis e eficazes. É desafiador pensar e criar algo que melhore o resultado final do que as pessoas fazem.
+📌 Tecnologias e ferramentas que tenho trabalhado atualmente:
+
+👨🏻‍💻 BackEnd: C#, .Net Core, Asp.Net Core, Oracle,
+API REST, Dapper, Asp.Net MVC, Git, Docker.
+
+📌 Práticas:
+Clean Architecture, Princípios SOLID, Designs Patterns, Clean Code.
+
+📌 Outras Tecnologias tenho conhecimento:
+
+MySql e SqlServe, Windows Forms, Entity Framework, xUnit.net
+
+🎨 FrontEnd: Javascript, Node.js, HTML e CSS.
 
 <a href = "mailto:denispereiraa55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/denis-pereira-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href=" https://docs.google.com/document/d/1EZQZ_8eyo82GlWy1Pgvwacr3Czol0WaIMQ4Eyg1cPhE/edit?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" height="40" width="40" target="_blank" style="max-width: 20%;"></a>
+
 <hr />
 <div align="center">
   <a href="https://github.com/denis818">
