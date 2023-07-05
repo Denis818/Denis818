@@ -18,8 +18,6 @@ MySql e SqlServe, Windows Forms, Entity Framework, xUnit.net
 
 <a href="https://www.linkedin.com/in/denis-pereira-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<br>
-<br>
 <b>Curriculo:</b>
 <br>
 <a href="https://docs.google.com/document/d/1EZQZ_8eyo82GlWy1Pgvwacr3Czol0WaIMQ4Eyg1cPhE/edit?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" height="40" width="40" target="_blank"></a>
