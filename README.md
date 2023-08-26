@@ -1,18 +1,21 @@
 <h3>Ola eu sou Denis 👋</h3>
 
-📌 Tecnologias e ferramentas que tenho trabalhado atualmente:
+📌 Tecnologias e ferramentas com as quais tenho trabalhado atualmente:
 
-👨🏻‍💻 BackEnd: C#, .Net Core, Asp.Net Core, Oracle,
-API REST, Dapper, Asp.Net MVC, Git, Docker.
+🔧 Back-End: POO, C#, .Net Core, API REST, Asp.Net Core MVC, EF Core, Git;
 
-📌 Práticas:
-Clean Architecture, Princípios SOLID, Designs Patterns, Clean Code.
+🎨 FrontEnd: HTML, CSS, JavaScript, jQuery;
 
-📌 Outras Tecnologias tenho conhecimento:
+🗄️ Experiência com Bancos: SqlServer, Oracle, PostgreSQL;
 
-MySql e SqlServe, Windows Forms, Entity Framework, xUnit.net
+🐳 Familiaridade com, Docker e RabbitMQ;
 
-🎨 FrontEnd: Javascript, Node.js, HTML e CSS.
+📚 Práticas: Clean Architecture, Princípios SOLID,
+Designs Patterns e Clean Code;
+
+📚 Atualmente sigo estudando, Angular Core, TypeScript, SCSS, Bootstrap.
+
+Tenho experiência com projetos complexos e de grande escala, onde sempre me empenhei em garantir a qualidade e a eficiência do código. Sou motivado pela busca de soluções inovadoras e de alto desempenho para resolver problemas desafiadores.
 
 <a href = "mailto:denispereiraa55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
