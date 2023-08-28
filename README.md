@@ -23,7 +23,7 @@ Sou motivado pela busca de soluções inovadoras e de alto desempenho para resol
 <!--Gmail-->
 <a href = "mailto:denispereiraa55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--Linkedin-->
-<a href="https://www.linkedin.com/in/denis-pereira-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/denis-pereira-dos-reis-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--Curriculo-->
 <b>Curriculo, clique aqui:</b>
 <br>
