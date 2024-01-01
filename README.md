@@ -1,4 +1,4 @@
-	<h3>Olá, eu sou Denis 👋</h3>
+<h3>Olá, eu sou Denis 👋</h3>
 
 📌 Tecnologias e ferramentas com as quais tenho trabalhado atualmente:
 
