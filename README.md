@@ -56,7 +56,7 @@ Sou motivado pela busca de soluções inovadoras e de alto desempenho para resol
   <!-- Docker -->
   <img title="Docker" alt="Docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <!-- SQL Server -->
-  <img title="SQL Server" alt="SQL Server" height="30" width="30" src="https://camo.githubusercontent.com/0795475ab521318b4426f7f9830c96d246fd15acd98350cf750dfa0bf3b41848/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67">
+  <img title="SQL Server" alt="SQL Server" height="30" width="30" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png">
   <!-- GIT -->
   <img title="GIT" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
