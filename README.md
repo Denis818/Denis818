@@ -49,16 +49,22 @@ os projetos enquanto continuo a evoluir profissionalmente..
 <!-- Back-End Technologies -->
 <h4>⚙️Back-End:</h4>
 <div style="display: flex; align-items: center; gap: 10px;">
-  <!--.Net Core -->
-  <img title=".Net Core" alt=".Net Core" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
   <!-- C# -->
   <img title="C#" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!-- Docker -->
-  <img title="Docker" alt="Docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <!--.Net Core -->
+  <img title=".Net Core" alt=".Net Core" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
   <!-- SQL Server -->
   <img title="SQL Server" alt="SQL Server" height="30" width="30" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png">
   <!-- GIT -->
   <img title="GIT" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <!-- Docker -->
+  <img title="Docker" alt="Docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <!--Kuberntes-->
+  <img title="Kubernetes" alt="Kubernetes" height="30" width="30" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png">
+  <!-- Jenkins -->
+  <img title="Jenkins" alt="Jenkins" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png">
+  <!-- RabiitMq -->
+  <img title="RabiitMq" alt="RabiitMq" height="30" width="30" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png">
 </div>
 
 <h4>🎨Front-End:</h4>
