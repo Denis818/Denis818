@@ -2,22 +2,22 @@
 
 📌 Tecnologias e ferramentas com as quais tenho trabalhado atualmente:
 
-🔧 Back-End: POO, C#, .Net Core, API REST, Asp.Net Core MVC, EF Core, Git;
+🔧 Back-End: C#, .Net Core, API REST, Asp.Net Core MVC, Entity Framework Core, 
+Programação Orientada a Objeto (POO), Git;
 
-🎨 FrontEnd: HTML, CSS, JavaScript, jQuery;
+🎨 FrontEnd: HTML & CSS, JavaScript, Bootstrap, Angular, Angular Material, TypeScript;
 
-🗄️ Experiência com Bancos: SqlServer, Oracle, PostgreSQL;
+🗄️ Experiência com Bancos: SQL Server, Oracle, PostgreSQL;
 
-🐳 Familiaridade com, Docker e RabbitMQ;
+⚒️ Experiência com: Docker, Kubernetes, Jenkins, RabbitMQ;
 
-📚 Práticas: Clean Architecture, Princípios SOLID,
-Designs Patterns e Clean Code;
+📚 Práticas: Clean Architecture, Princípios SOLID, Designs Patterns e Clean Code;
 
-📚 Atualmente sigo estudando, Angular Core, TypeScript, SCSS, Bootstrap.
+Com mais de 2 anos de experiência como desenvolvedor de sistemas, atuo predominantemente em ambientes de backend,
+busco uma oportunidade desafiadora em uma empresa inovadora. Tenho foco na otimização e escalabilidade de
+sistemas, empregando práticas modernas e metodologias ágeis. Estou comprometido em impactar positivamente
+os projetos enquanto continuo a evoluir profissionalmente..
 
-Tenho experiência com projetos complexos e de grande escala, <br>
-onde sempre me empenhei em garantir a qualidade e a eficiência do código. <br>
-Sou motivado pela busca de soluções inovadoras e de alto desempenho para resolver problemas desafiadores.
 
 <!--Redes-->
 <!--Gmail-->
