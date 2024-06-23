@@ -17,7 +17,7 @@ Programação Orientada a Objeto (POO), Git;
 ⚒️ Experiência com: Docker, Kubernetes, Jenkins, RabbitMQ;
 
 📚 Práticas: Clean Architecture, Princípios SOLID, Designs Patterns e Clean Code;
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
   <h4>Redes e Curriculo:</h4>
   <a href="mailto:denis.pereira55@outlook.com">
     <img height="30" width="30" src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/512/Email-icon.png" target="_blank"/></a>
