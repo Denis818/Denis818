@@ -21,7 +21,7 @@ os projetos enquanto continuo a evoluir profissionalmente..
 
 <!--Redes-->
 <!--Gmail-->
-<a href = "mailto:denispereiraa55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:denis.pereira55@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--Linkedin-->
 <a href="https://www.linkedin.com/in/denis-pereira-dos-reis-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--Curriculo-->
