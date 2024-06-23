@@ -1,4 +1,9 @@
-<h3>Olá, eu sou Denis 👋</h3>
+<h3>Denis Pereira</h3>
+<h4>Analista Desenvolvedor .NET | C# | Angular | TypeScript</h4>
+<p>
+  Com mais de 2 anos de experiência como desenvolvedor de sistemas,
+  atuo predominantemente em ambientes de backend.
+</p>
 
 📌 Tecnologias e ferramentas com as quais tenho trabalhado atualmente:
 
@@ -12,24 +17,19 @@ Programação Orientada a Objeto (POO), Git;
 ⚒️ Experiência com: Docker, Kubernetes, Jenkins, RabbitMQ;
 
 📚 Práticas: Clean Architecture, Princípios SOLID, Designs Patterns e Clean Code;
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4>Redes e Curriculo:</h4>
+  <a href="mailto:denis.pereira55@outlook.com">
+    <img height="30" width="30" src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/512/Email-icon.png" target="_blank"/></a>
+  
+  <a href="https://www.linkedin.com/in/denis-pereira-dos-reis-264684229">
+    <img height="30" width="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" target="_blank"/></a>
+  
+  <a href="https://www.canva.com/design/DAFsIKUzMQQ/UDZZ1lltu0o84RMeJ3zMtQ/view?utm_content=DAFsIKUzMQQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+    <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" target="_blank"
+  /></a>
+</div>
 
-Com mais de 2 anos de experiência como desenvolvedor de sistemas, atuo predominantemente em ambientes de backend,
-busco uma oportunidade desafiadora em uma empresa inovadora. Tenho foco na otimização e escalabilidade de
-sistemas, empregando práticas modernas e metodologias ágeis. Estou comprometido em impactar positivamente
-os projetos enquanto continuo a evoluir profissionalmente..
-
-
-<!--Redes-->
-<!--Gmail-->
-<a href = "mailto:denis.pereira55@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--Linkedin-->
-<a href="https://www.linkedin.com/in/denis-pereira-dos-reis-264684229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!--Curriculo-->
-<b>Curriculo, clique aqui:</b>
-<br>
-<a href="https://www.canva.com/design/DAFsIKUzMQQ/UDZZ1lltu0o84RMeJ3zMtQ/view?utm_content=DAFsIKUzMQQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" 
-  target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" height="40" width="40" target="_blank"></a>
-<!--End-->
 
 <!--Dashboard GitHub -->
 <hr />
@@ -44,11 +44,11 @@ os projetos enquanto continuo a evoluir profissionalmente..
 
 <!--Title -->
 </br>
-<h3>🚀Skills: </h3>
+<h3>🚀Habiliadades: </h3>
 <!--End-->
 <!-- Back-End Technologies -->
 <h4>⚙️Back-End:</h4>
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
   <!-- C# -->
   <img title="C#" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!--.Net Core -->
