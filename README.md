@@ -25,7 +25,7 @@ Programação Orientada a Objeto (POO), Git;
   <a href="https://www.linkedin.com/in/denis-pereira-dos-reis-264684229">
     <img height="30" width="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" target="_blank"/></a>
   
-  <a href="https://www.canva.com/design/DAFsIKUzMQQ/UDZZ1lltu0o84RMeJ3zMtQ/view?utm_content=DAFsIKUzMQQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <a href="https://www.canva.com/design/DAGmfJKeUJU/vpIkUn7pV7_yJtZdVVJgxg/view?utm_content=DAGmfJKeUJU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17a91b127a">
     <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3968/3968611.png" target="_blank"
   /></a>
 </div>
